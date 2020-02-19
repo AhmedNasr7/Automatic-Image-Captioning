@@ -14,6 +14,9 @@ The project is an implementation of the architecture introduced in the paper ['S
 
 ## COCO Dataset Instructions  
 
+![COCO Dataset Examples](https://github.com/AhmedNasr7/Image-Automatic-Captioning/blob/master/images/coco-examples.jpg)
+
+
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
 git clone https://github.com/cocodataset/cocoapi.git  
@@ -37,5 +40,12 @@ cd ..
   * **2014 Val images [41K/6GB]** (extract the val2014 folder and place at location cocoapi/images/val2014/)
   * **2014 Test images [41K/6GB]** (extract the test2014 folder and place at location cocoapi/images/test2014/)
 
+
+
+### To install the required packages
+
+```
+pip install -r requirements.txt
+```
 
 
