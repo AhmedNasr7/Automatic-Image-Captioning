@@ -7,6 +7,9 @@ The Second Project in the Computer Vision Nanodegree by Udacity - Automatic Capt
 The project is an implementation of the architecture introduced in the paper ['Show and Tell: A Neural Image Caption Generator'](https://arxiv.org/abs/1411.4555)
 
  
+### The next figure shows the architecture used in the project: 
+
+
 
 
 ## COCO Dataset Instructions  
