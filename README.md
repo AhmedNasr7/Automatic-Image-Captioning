@@ -9,7 +9,7 @@ The project is an implementation of the architecture introduced in the paper ['S
  
 ### The next figure shows the architecture used in the project: 
 
-
+![Encoder Decoder Architecture](https://github.com/AhmedNasr7/Image-Automatic-Captioning/blob/master/images/encoder-decoder.png)
 
 
 ## COCO Dataset Instructions  
