@@ -4,6 +4,13 @@
 
 The Second Project in the Computer Vision Nanodegree by Udacity - Automatic Captioning of Images. 
 
+### To install the required packages
+
+```
+pip install -r requirements.txt
+
+```
+
 The project is an implementation of the architecture introduced in the paper ['Show and Tell: A Neural Image Caption Generator'](https://arxiv.org/abs/1411.4555)
 
  
@@ -42,10 +49,6 @@ cd ..
 
 
 
-### To install the required packages
 
-```
-pip install -r requirements.txt
-```
 
 
