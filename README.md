@@ -1,4 +1,5 @@
-# Image-Automatic-Captioning
+# Automatic-Image-Captioning
+
 
 [![Udacity Computer Vision Nanodegree](http://tugan0329.bitbucket.io/imgs/github/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
@@ -11,7 +12,7 @@ pip install -r requirements.txt
 
 ```
 
-The project is an implementation of the architecture introduced in the paper ['Show and Tell: A Neural Image Caption Generator'](https://arxiv.org/abs/1411.4555)
+The project is an implementation of the architecture introduced in the paper [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 
  
 ### The next figure shows the architecture used in the project: 
